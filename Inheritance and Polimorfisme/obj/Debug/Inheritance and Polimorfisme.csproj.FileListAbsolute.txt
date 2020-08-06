@@ -1,0 +1,7 @@
+D:\ProgrammerFIles\Inheritance and Polimorfisme\Inheritance and Polimorfisme\obj\Debug\Inheritance and Polimorfisme.csprojAssemblyReference.cache
+D:\ProgrammerFIles\Inheritance and Polimorfisme\Inheritance and Polimorfisme\obj\Debug\Inheritance and Polimorfisme.csproj.CoreCompileInputs.cache
+D:\ProgrammerFIles\Inheritance and Polimorfisme\Inheritance and Polimorfisme\bin\Debug\Inheritance and Polimorfisme.exe.config
+D:\ProgrammerFIles\Inheritance and Polimorfisme\Inheritance and Polimorfisme\bin\Debug\Inheritance and Polimorfisme.exe
+D:\ProgrammerFIles\Inheritance and Polimorfisme\Inheritance and Polimorfisme\bin\Debug\Inheritance and Polimorfisme.pdb
+D:\ProgrammerFIles\Inheritance and Polimorfisme\Inheritance and Polimorfisme\obj\Debug\Inheritance and Polimorfisme.exe
+D:\ProgrammerFIles\Inheritance and Polimorfisme\Inheritance and Polimorfisme\obj\Debug\Inheritance and Polimorfisme.pdb
